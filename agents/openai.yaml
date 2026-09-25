@@ -1,0 +1,4 @@
+interface:
+  display_name: "Consumer Persona Evaluation｜人群视角判断"
+  short_description: "从营销 brief 选择最有区分力的人群研究主轴与后续验证维度"
+  default_prompt: "使用 $consumer-persona-evaluation 阅读我提供的 marketing brief，判断应该从什么视角研究人群，并输出给后续 social listening 的研究框架；不要执行 social listening 或产出最终 persona。"
