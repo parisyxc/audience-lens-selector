@@ -108,3 +108,15 @@
   - `SKILL.md` 正文里的例子（游戏 / 3D 打印 / 开发者 / AI 爱好者 → 先试派 vs 要证据派）不含品牌名，可保留。
 - **公开 demo**：`audience-lens-selector-demo.html` ✅ —— 虚构品牌 **Relay**，accent 色 **rose `#F48FB8`**（色相 336°，与 teal / periwinkle / amber 均相距 ≥ 60°）。
   主体：一个虚构的**二手高端公路车交易平台** —— 「骑行者 / Strava 用户 / 铁三」是触达标签；真正的主轴可能是「品类专业度 × 证据门槛」（懂参数的老手 vs 怕买到事故车的升级新手）。避开 AI / 3D 工具品类，免得和示例来源撞。
+
+  ## 7 · 下一步（intake 清单）
+
+- [x] 公开名：`Audience Lens Selector`（demo 已按此命名）
+- [x] 示例公司 = 客户工作 → 公开版 source-map 泛化为「an AI 3D-creation tool brief」
+- [x] `assets/lens-brief-template.md`：由 `output-contract.md` 派生的可填模板 + 交付前检查清单
+- [x] demo HTML：`audience-lens-selector-demo.html`（rose `#F48FB8`）
+- [x] 双语 README → 隐私清洗（公开版 source-map 已泛化）→ repo 打包：`outputs/github-ready/audience-lens-selector.zip`
+- [x] 已发布：`github.com/parisyxc/audience-lens-selector`（11 个文件逐个校验通过，根目录无重复）
+- [x] 网站第 4 张卡片（`t4_*` 20 个 key，EN / 中文 完全对齐；rose accent；首页文案 three → four）
+- [ ] 工具箱 2.4 Persona 框架页加一条指向本工具的链接 —— 等免费框架库上站时一起做
+
